@@ -1,0 +1,51 @@
+body {
+ background-color: rgb(8, 73, 8);
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ text-align: center;
+ color: white;
+ font-weight: bold;
+}
+
+h1 {
+ color: goldenrod;
+
+}
+
+p {
+ font-style: italic;
+}
+
+#button-el {
+ background-color: goldenrod;
+ width: 150px;
+ color: white;
+ padding: 5px;
+ cursor: pointer;
+ border-radius: 5px;
+ border: none;
+ font-weight: bold;
+}
+
+#button-el:hover {
+ font-weight: bold;
+ color: #016f32;
+ box-shadow: 2px 2px 30px white;
+}
+
+#button1-el {
+ background-color: goldenrod;
+ width: 150px;
+ color: white;
+ padding: 5px;
+ cursor: pointer;
+ border-radius: 5px;
+ border: none;
+ margin-top: 5px;
+ font-weight: bold;
+}
+
+#button1-el:hover {
+ font-weight: bold;
+ color: #016f32;
+ box-shadow: 2px 2px 30px white;
+}
